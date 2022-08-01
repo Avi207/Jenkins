@@ -1,5 +1,2 @@
-public class HelloWorld{
-	public static void main(String[] args){
-		System.out.println("Hello World");
-	}
-}
+echo "Welcome TO Git integration of Jenkins"
+echo "Thank you for Integrating github with Jenkins"
