@@ -1,2 +1,0 @@
-echo "Welcome TO Git integration of Jenkins"
-echo "Thank you for Integrating github with Jenkins"
